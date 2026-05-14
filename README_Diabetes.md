@@ -114,13 +114,7 @@ jupyter notebook Diabetes_Analysis.ipynb
 ## 👩‍💻 Author
 
 **Shahd Khaled**
-B.Sc. Computer Science — The Open University, UK
+B.Sc. Computer Science 
 Data Science & Machine Learning Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-ShahdKhaled22-black?style=flat&logo=github)](https://github.com/ShahdKhaled22)
-
----
-
-## 🔗 Related Projects
-
-- [Heart Disease Prediction System](https://github.com/ShahdKhaled22/Heart-Disease-Prediction) — ML classification using Random Forest, Logistic Regression & Gradient Boosting
